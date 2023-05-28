@@ -1,0 +1,36 @@
+.component-container {
+  width: 315px;
+  height: 383px;
+  display: flex;
+  position: relative;
+}
+.component-form {
+  width: 1023px;
+  height: 364px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component-textinput {
+  width: 297px;
+  height: 40px;
+  margin-top: 0px;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.component-textinput1 {
+  width: 296px;
+  height: 329px;
+}
+.component-button {
+  width: 294px;
+  height: 38px;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+}
+.component-root-class-name {
+  align-self: center;
+  margin-top: var(--dl-space-space-threeunits);
+  margin-left: var(--dl-space-space-unit);
+  margin-right: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-threeunits);
+}
